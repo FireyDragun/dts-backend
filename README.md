@@ -1,6 +1,7 @@
 This is my NestJS application for the back-end for the assignment by the Ministry of Justice.
 
 - Ensure this is running before the front-end
+- npm i to download the necessary documentation
 - The application requires the command npm run start to start
 
 
